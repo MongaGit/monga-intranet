@@ -1,5 +1,9 @@
 # Estudos
 
+
+Melhores praticas 
+
+```
 monga-intranet/
   |- backend/
   |    |- src/
@@ -53,3 +57,4 @@ monga-intranet/
   |- README.md                           // Documentação do projeto
   |- package.json                        // Dependências e scripts principais
   |- tsconfig.json                       // Configurações globais do TypeScript
+```
